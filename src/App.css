@@ -1,0 +1,12 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 500px;
+    margin: 10em auto
+}
