@@ -1,13 +1,14 @@
-# TODOLIST
+# React To-Do List Application
 
-## Available Scripts
+This is a simple React-based to-do list application where users can manage their tasks by marking items as completed. The application provides a user-friendly interface for efficient task management.
 
-In the project directory, you can run:
+## Demo
 
-### `yarn start`
+You can view a live demo of the application [here](https://todolist-remo-antonio-lalatas-projects.vercel.app/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository: `git clone https://github.com/remolalata/todolist.git`.
+2. Navigate to the project directory: `cd todolist`.
+3. Install dependencies: `npm install`.
+4. Start the application: `npm start`.
